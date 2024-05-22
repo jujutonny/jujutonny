@@ -8,12 +8,12 @@ Meu nome é Júlia Ribeiro
 
 # VOCÊ PODE ENTRAR EM CONTATO COMIGO EM:
   
-00001113140501sp@al.educacao.sp.gov.br
+📧 00001113140501sp@al.educacao.sp.gov.br
 
 @_jrm12_
 
 
-![gatinha](https://media1.tenor.com/m/sLIuJuqBfSYAAAAd/luna-cat-crunchy-cat.gif)
+![gatinha](https://media.tenor.com/eDYrIXjA6k8AAAAi/cat-dog.gif)
 
 
 
