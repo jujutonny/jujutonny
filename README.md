@@ -1,16 +1,17 @@
-## Hi there 👋
+# BOAS VINDAS AO MEU PERFIL!!
 
-<!--
-**jujutonny/jujutonny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Júlia Ribeiro
 
-Here are some ideas to get you started:
+ + Estou estudando na Alura;
+ + Iniciando projetos na linguagem de JavaScript;
+ + Utilizo esse espaço para organizar e compartilhar os projetos que desenvolvo estudando!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# VOCÊ PODE ENTRAR EM CONTATO COMIGO EM:
+  
+📧00001113140501sp@al.educacao.sp.gov.br
+
+@_jrm12_
+
+![](https://media1.tenor.com/m/sLIuJuqBfSYAAAAd/luna-cat-crunchy-cat.gif)
+
+   
